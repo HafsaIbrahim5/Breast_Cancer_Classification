@@ -3,7 +3,7 @@
 An end-to-end Machine Learning web application designed to classify breast tumors as Malignant or Benign with high precision. This project leverages an optimized **HistGradientBoostingClassifier** to analyze 30 clinical parameters, providing real-time diagnostic certainty through a sophisticated Cyber-Medical UI.
 
 ## 🚀 Live Demo
-[🔗 View Live App](https://breastcancerclassification-2fpwga9cmb3tjdjdcnurgr.streamlit.app/) *(Replace with your actual Streamlit link)*
+[🔗 View Live App](https://breastcancerclassification-2fpwga9cmb3tjdjdcnurgr.streamlit.app/)
 
 ## 🛠️ Tech Stack
 - **Engine:** Python 3.10+
